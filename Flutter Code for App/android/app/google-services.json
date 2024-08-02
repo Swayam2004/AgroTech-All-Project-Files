@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "1042547238796",
+    "project_id": "agrotech-cf790",
+    "storage_bucket": "agrotech-cf790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042547238796:android:519e5451a51ae89fc298a9",
+        "android_client_info": {
+          "package_name": "com.cognizant.agrotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042547238796-o99003tbf7rm3gkqm56t4uoeiorui6i3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cognizant.agrotech",
+            "certificate_hash": "b87d9cdbab5450ff1cf7cd02cf4da5035a5d16b0"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPUyzuE0vta6SAUrzjMofkvx_r8GYwlqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
